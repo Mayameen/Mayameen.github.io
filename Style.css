@@ -37,6 +37,8 @@ body {
 	 background-image:url('https://scontent-lga3-1.xx.fbcdn.net/hphotos-xpt1/t31.0-8/s960x960/12140997_10153691663823130_979672941352768257_o.jpg');
 	 margin:  auto;	
      font-size: 18px;	
+	
+	 
 	 
      	 
  }
@@ -55,12 +57,24 @@ a:hover{
 	color:red;
 	
 }
+
+
+ td img {
+	 
+	 margin-right:60px;
+	 width: 180px;
+	 height:180px;
+ }
  
  img {
 	 margin:auto;
-	 margin-top:20px;
-	 width: 90px;
-	 height:90px;
+	 width: 50px;
+	 height:50px;
  }
+ 
+	 
+
+ 
+ 
  
  
