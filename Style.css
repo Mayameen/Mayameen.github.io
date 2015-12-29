@@ -48,7 +48,7 @@ body {
 	font-family:Arial;
 	position:relative;
 	color:white;
-	bottom:-150px
+	bottom:-250px
 	
 
 }
@@ -59,14 +59,13 @@ a:hover{
 }
 
 
- div  img {
-	 
+ div img {
 	 
 	 width: 200px;
 	 height:200px;
  }
  
- img {
+ #bottom img {
 	 margin:auto;
 	 width: 50px;
 	 height:50px;
